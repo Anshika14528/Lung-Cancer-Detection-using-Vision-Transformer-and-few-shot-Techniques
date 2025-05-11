@@ -1,1 +1,2 @@
 # Lung-Cancer-Detection-using-Vision-Transformer-and-few-shot-Techniques
+This study demonstrates that Vision Transformers (ViT), pretrained on ImageNet and fine-tuned with few-shot learning, can effectively classify lung cancer from chest X-rays with minimal data. Unlike traditional CNNs, ViT effectively captures long-range dependencies in images through self-attention mechanisms, leading to strong classification performance. Despite training on only a small fraction of the dataset, the model achieves high accuracy about 96%, highlighting the power of transfer learning.
